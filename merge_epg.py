@@ -8,8 +8,8 @@ urls = [
     "https://kinostream3-premiera-1.hf.space/epg.xml",
     "https://kinostream3-premiera-2.hf.space/epg.xml",
     "https://stream-tv-hind-movie.hf.space/epg.xml",
-    "https://stream-tv-digital.hf.space/epg.xml",
-    "http://epg.one/epg.xml"
+    "https://stream-tv-digital.hf.space/epg.xml"
+    
 ]
 
 def merge_epg():
