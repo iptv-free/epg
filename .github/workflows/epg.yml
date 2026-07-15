@@ -1,0 +1,19 @@
+name: EPG Merger
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Har 6 soatda ishlaydi
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run script
+        run: python merge_epg.py
+      - name: Upload result
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "EPG yangilandi"
