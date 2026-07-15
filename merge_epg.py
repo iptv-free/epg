@@ -8,7 +8,17 @@ urls = [
     "https://kinostream3-premiera-1.hf.space/epg.xml",
     "https://kinostream3-premiera-2.hf.space/epg.xml",
     "https://stream-tv-hind-movie.hf.space/epg.xml",
-    "https://stream-tv-digital.hf.space/epg.xml"
+    "https://stream-tv-digital.hf.space/epg.xml",
+    "https://kinostream4-asil-tv.hf.space/epg.xml",
+    "https://kinostream4-asil-tv2.hf.space/epg.xml",
+    "https://scottadkins-stream.hf.space/epg.xml",
+    "https://scottadkins-uill-smit.hf.space/epg.xml",
+    "https://kinostream-jackie-chan.hf.space",
+    "https://kinostream-denzel.hf.space/epg.xml",
+    "https://kinostream2-tony-jaa.hf.space/epg.xml",
+    "https://kinostream2-jason-statham.hf.space/epg.xml"
+    
+
     
 ]
 
