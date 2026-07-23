@@ -5,8 +5,6 @@ import xml.etree.ElementTree as ET
 urls = [
     "https://stream-tv-new-kino.hf.space/epg.xml",
     "https://itvuz-kulgu.hf.space/epg.xml",
-    "https://kinostream3-premiera-1.hf.space/epg.xml",
-    "https://kinostream3-premiera-2.hf.space/epg.xml",
     "https://stream-tv-hind-movie.hf.space/epg.xml",
     "https://stream-tv-digital.hf.space/epg.xml",
     "https://kinostream4-asil-tv.hf.space/epg.xml",
@@ -15,7 +13,6 @@ urls = [
     "https://scottadkins-uill-smit.hf.space/epg.xml",
     "https://kinostream-jackie-chan.hf.space",
     "https://kinostream-denzel.hf.space/epg.xml",
-    "https://kinostream2-tony-jaa.hf.space/epg.xml",
     "https://kinostream2-jason-statham.hf.space/epg.xml"
     
 
