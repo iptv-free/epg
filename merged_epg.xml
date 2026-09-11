@@ -2,171 +2,171 @@
 <tv generator_info_name="MergedEPG"><channel id="Asil TV">
     <display-name>Asil TV</display-name>
   </channel>
-  <programme start="20260910024818 +0000" stop="20260910041818 +0000" channel="Asil TV">
+  <programme start="20260910011830 +0000" stop="20260910024830 +0000" channel="Asil TV">
     <title lang="uz">Xaker mp4</title>
     <icon src="https://daxshat.tv/uploads/posts/2025-01/1737018884-1829283388-haker.webp" />
   </programme>
-  <programme start="20260910041818 +0000" stop="20260910054148 +0000" channel="Asil TV">
+  <programme start="20260910024830 +0000" stop="20260910041200 +0000" channel="Asil TV">
     <title lang="uz">Uylangan bo'ydoq mp4</title>
     <icon src="https://uzbeklar.biz/uploads/posts/2024-09/1725360811_boydoq.jpg" />
   </programme>
-  <programme start="20260910054148 +0000" stop="20260910070013 +0000" channel="Asil TV">
+  <programme start="20260910041200 +0000" stop="20260910053025 +0000" channel="Asil TV">
     <title lang="uz">90 Yillarga qaytib men qaytaman mp4</title>
     <icon src="https://i.postimg.cc/kgcQ3LS8/IMG-20260807-112257-044.jpg" />
   </programme>
-  <programme start="20260910070013 +0000" stop="20260910092203 +0000" channel="Asil TV">
+  <programme start="20260910053025 +0000" stop="20260910075215 +0000" channel="Asil TV">
     <title lang="uz">Soya Chegarasi mp4</title>
     <icon src="https://uzbeklar.biz/uploads/posts/2025-11/1763701484_soyaning.jpg" />
   </programme>
-  <programme start="20260910092203 +0000" stop="20260910112349 +0000" channel="Asil TV">
+  <programme start="20260910075215 +0000" stop="20260910095401 +0000" channel="Asil TV">
     <title lang="uz">20 Asr qizi mp4</title>
     <icon src="https://playuz.net/uploads/posts/2024-01/20-asr-qizi.webp" />
   </programme>
-  <programme start="20260910112349 +0000" stop="20260910125124 +0000" channel="Asil TV">
+  <programme start="20260910095401 +0000" stop="20260910112136 +0000" channel="Asil TV">
     <title lang="uz">Vaqt Tuzoği mp4</title>
     <icon src="https://i.postimg.cc/L6BTYQjm/IMG-20260818-141040-749.jpg" />
   </programme>
-  <programme start="20260910125124 +0000" stop="20260910140514 +0000" channel="Asil TV">
+  <programme start="20260910112136 +0000" stop="20260910123526 +0000" channel="Asil TV">
     <title lang="uz">Farz 2026 mp4</title>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuNDXDoIXFoHxExmEB2dZFAdhnQQXvYRV-Q&amp;s" />
   </programme>
-  <programme start="20260910140514 +0000" stop="20260910153514 +0000" channel="Asil TV">
+  <programme start="20260910123526 +0000" stop="20260910140526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 1-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260910153514 +0000" stop="20260910170514 +0000" channel="Asil TV">
+  <programme start="20260910140526 +0000" stop="20260910153526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 2-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260910170514 +0000" stop="20260910183514 +0000" channel="Asil TV">
+  <programme start="20260910153526 +0000" stop="20260910170526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 3-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260910183514 +0000" stop="20260910200514 +0000" channel="Asil TV">
+  <programme start="20260910170526 +0000" stop="20260910183526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 4-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260910200514 +0000" stop="20260910213514 +0000" channel="Asil TV">
+  <programme start="20260910183526 +0000" stop="20260910200526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 5-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260910213514 +0000" stop="20260910230514 +0000" channel="Asil TV">
+  <programme start="20260910200526 +0000" stop="20260910213526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 6-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260910230514 +0000" stop="20260911003514 +0000" channel="Asil TV">
+  <programme start="20260910213526 +0000" stop="20260910230526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 7-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260911003514 +0000" stop="20260911020514 +0000" channel="Asil TV">
+  <programme start="20260910230526 +0000" stop="20260911003526 +0000" channel="Asil TV">
     <title lang="uz">Maktabga qaytgan bezori 8-qisim</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/maktabga-qaytgan-bezori.webp" />
   </programme>
-  <programme start="20260911020514 +0000" stop="20260911054019 +0000" channel="Asil TV">
+  <programme start="20260911003526 +0000" stop="20260911041031 +0000" channel="Asil TV">
     <title lang="uz">G'aroyib avtomobil mp4</title>
     <icon src="https://kinolar.tv/_ld/77/91156568.jpg" />
   </programme>
-  <programme start="20260911054019 +0000" stop="20260911091524 +0000" channel="Asil TV">
+  <programme start="20260911041031 +0000" stop="20260911074536 +0000" channel="Asil TV">
     <title lang="uz">Mijoz mp4</title>
     <icon src="https://uzbeklar.biz/uploads/posts/2025-06/1749971608_mijoz.jpg" />
   </programme>
-  <programme start="20260911091524 +0000" stop="20260911104524 +0000" channel="Asil TV">
+  <programme start="20260911074536 +0000" stop="20260911091536 +0000" channel="Asil TV">
     <title lang="uz">Hayot ertagi mp4</title>
     <icon src="https://playuz.net/uploads/posts/2024-07/hayot-ertagi.webp" />
   </programme>
-  <programme start="20260911104524 +0000" stop="20260911120545 +0000" channel="Asil TV">
+  <programme start="20260911091536 +0000" stop="20260911103557 +0000" channel="Asil TV">
     <title lang="uz">Tepalikda mp4</title>
     <icon src="https://kinolar.tv/_ld/5/86719768.jpg" />
   </programme>
-  <programme start="20260911120545 +0000" stop="20260911135515 +0000" channel="Asil TV">
+  <programme start="20260911103557 +0000" stop="20260911122527 +0000" channel="Asil TV">
     <title lang="uz">Qora belbogli zobit mp4</title>
     <icon src="https://uzbeklar.biz/uploads/posts/2024-10/1729227845_qora.jpg" />
   </programme>
-  <programme start="20260911135515 +0000" stop="20260911140155 +0000" channel="Asil TV">
+  <programme start="20260911122527 +0000" stop="20260911123207 +0000" channel="Asil TV">
     <title lang="uz">Momaqaldiroq paytida mp4</title>
     <icon src="https://seriallar.net/uploads/posts/2023-04/momaqaldiroq-paytida.webp" />
   </programme>
-  <programme start="20260911140155 +0000" stop="20260911153935 +0000" channel="Asil TV">
+  <programme start="20260911123207 +0000" stop="20260911140947 +0000" channel="Asil TV">
     <title lang="uz">Terminator mp4</title>
     <icon src="https://uzmovi.tv/uploads/posts/ii/1563424305/23f07a83/27245903.jpg" />
   </programme>
-  <programme start="20260911153935 +0000" stop="20260911153945 +0000" channel="Asil TV">
+  <programme start="20260911140947 +0000" stop="20260911141502 +0000" channel="Asil TV">
     <title lang="uz">Josus mp4</title>
     <icon src="https://uzpley.net/uploads/posts/2025-12/e7b4749e3b_josus-shpion.webp" />
   </programme>
-  <programme start="20260911153945 +0000" stop="20260911154420 +0000" channel="Asil TV">
+  <programme start="20260911141502 +0000" stop="20260911142407 +0000" channel="Asil TV">
     <title lang="uz">Uyda yolg'iz 1 mp4</title>
     <icon src="https://uzbeklar.biz/uploads/posts/2024-12/1733669327_uyda1.jpg" />
   </programme>
-  <programme start="20260911154420 +0000" stop="20260911171420 +0000" channel="Asil TV">
+  <programme start="20260911142407 +0000" stop="20260911155407 +0000" channel="Asil TV">
     <title lang="uz">Lilo va Stich mp4</title>
     <icon src="https://uzmedia.biz/uploads/posts/2026-02/0564400969_lilo-va-stich.webp" />
   </programme>
-  <programme start="20260911171420 +0000" stop="20260911185125 +0000" channel="Asil TV">
+  <programme start="20260911155407 +0000" stop="20260911173112 +0000" channel="Asil TV">
     <title lang="uz">Sirli Qotillik mp4</title>
     <icon src="https://img.kinochilar.com/uploads/posts/1760274375-935479973-ubiystvo-na-yahte-kinochilar-com.jpg" />
   </programme>
-  <programme start="20260911185125 +0000" stop="20260911185235 +0000" channel="Asil TV">
+  <programme start="20260911173112 +0000" stop="20260911173757 +0000" channel="Asil TV">
     <title lang="uz">Oʻgʻirlangan Shaxsiyat mp4</title>
     <icon src="https://img.kinochilar.com/uploads/posts/2023-10/1679011217-843275135-ukradennaya-lichnost.jpg" />
   </programme>
-  <programme start="20260911185235 +0000" stop="20260911185410 +0000" channel="Asil TV">
+  <programme start="20260911173757 +0000" stop="20260911173927 +0000" channel="Asil TV">
     <title lang="uz">Archalar 11 mp4</title>
     <icon src="https://img.kinochilar.com/uploads/posts/1768099565-2037803445-elki-11-kinochilar-com.jpg" />
   </programme>
-  <programme start="20260911185410 +0000" stop="20260911201515 +0000" channel="Asil TV">
+  <programme start="20260911173927 +0000" stop="20260911190032 +0000" channel="Asil TV">
     <title lang="uz">Dik va Jeyn mp4</title>
     <icon src="https://daxshat.net/uploads/posts/2023-09/1695414652_47sa47sq8.jpg" />
   </programme>
-  <programme start="20260911201515 +0000" stop="20260911214510 +0000" channel="Asil TV">
+  <programme start="20260911190032 +0000" stop="20260911203027 +0000" channel="Asil TV">
     <title lang="uz">Taksi 1 mp4</title>
     <icon src="https://daxshat.net/uploads/posts/2020-05/1589867797_545sa4d5.jpg" />
   </programme>
-  <programme start="20260911214510 +0000" stop="20260911230830 +0000" channel="Asil TV">
+  <programme start="20260911203027 +0000" stop="20260911215347 +0000" channel="Asil TV">
     <title lang="uz">Taksi 2 mp4</title>
     <icon src="https://daxshat.net/uploads/posts/2020-05/1589867797_545sa4d5.jpg" />
   </programme>
-  <programme start="20260911230830 +0000" stop="20260912003516 +0000" channel="Asil TV">
+  <programme start="20260911215347 +0000" stop="20260911232033 +0000" channel="Asil TV">
     <title lang="uz">Taksi 3 mp4</title>
     <icon src="https://daxshat.net/uploads/posts/2020-05/1589867797_545sa4d5.jpg" />
   </programme>
-  <programme start="20260912003516 +0000" stop="20260912021246 +0000" channel="Asil TV">
+  <programme start="20260911232033 +0000" stop="20260912005803 +0000" channel="Asil TV">
     <title lang="uz">Taksi 4 mp4</title>
     <icon src="https://daxshat.net/uploads/posts/2020-05/1589867797_545sa4d5.jpg" />
   </programme>
-  <programme start="20260912021246 +0000" stop="20260912035446 +0000" channel="Asil TV">
+  <programme start="20260912005803 +0000" stop="20260912024003 +0000" channel="Asil TV">
     <title lang="uz">Taksi 5 mp4</title>
     <icon src="https://daxshat.net/uploads/posts/2020-05/1589867797_545sa4d5.jpg" />
   </programme>
-  <programme start="20260912035446 +0000" stop="20260912052446 +0000" channel="Asil TV">
+  <programme start="20260912024003 +0000" stop="20260912041003 +0000" channel="Asil TV">
     <title lang="uz">Venom 3 mp4</title>
     <icon src="https://i.postimg.cc/8ckQRSYp/IMG-20260728-163123-416.jpg" />
   </programme>
-  <programme start="20260912052446 +0000" stop="20260912065326 +0000" channel="Asil TV">
+  <programme start="20260912041003 +0000" stop="20260912053843 +0000" channel="Asil TV">
     <title lang="uz">Qizil Sharpa mp4</title>
     <icon src="https://uzbeklar.biz/uploads/posts/2024-01/1705251920_qizil.jpg" />
   </programme>
-  <programme start="20260912065326 +0000" stop="20260912082326 +0000" channel="Asil TV">
+  <programme start="20260912053843 +0000" stop="20260912070843 +0000" channel="Asil TV">
     <title lang="uz">T34 Tank mp4</title>
     <icon src="http://kinolar.net/uploads/posts/2024-01/thumbs/1705357504_t3444.jpg" />
   </programme>
-  <programme start="20260912082326 +0000" stop="20260912093956 +0000" channel="Asil TV">
+  <programme start="20260912070843 +0000" stop="20260912082513 +0000" channel="Asil TV">
     <title lang="uz">Lagʻmon 2026 mp4</title>
     <icon src="https://i.postimg.cc/sDF0CymP/IMG-20260728-163445-815.jpg" />
   </programme>
-  <programme start="20260912093956 +0000" stop="20260912115956 +0000" channel="Asil TV">
+  <programme start="20260912082513 +0000" stop="20260912104513 +0000" channel="Asil TV">
     <title lang="uz">Million 2025 mp4</title>
     <icon src="https://i.postimg.cc/hvbdz9dT/IMG-20260728-165742-013.jpg" />
   </programme>
-  <programme start="20260912115956 +0000" stop="20260912135556 +0000" channel="Asil TV">
+  <programme start="20260912104513 +0000" stop="20260912124114 +0000" channel="Asil TV">
     <title lang="uz">Bravo 2024 mp4</title>
     <icon src="https://i.postimg.cc/vBrcrsX7/IMG-20260807-102953-438.jpg" />
   </programme>
-  <programme start="20260912135556 +0000" stop="20260912153627 +0000" channel="Asil TV">
+  <programme start="20260912124114 +0000" stop="20260912142144 +0000" channel="Asil TV">
     <title lang="uz">Samaryalik mp4</title>
     <icon src="https://i.postimg.cc/X77kYH71/IMG-20260807-103956-654.jpg" />
   </programme>
-  <programme start="20260912153627 +0000" stop="20260912171552 +0000" channel="Asil TV">
+  <programme start="20260912142144 +0000" stop="20260912160109 +0000" channel="Asil TV">
     <title lang="uz">Mening josus qizim mp4</title>
     <icon src="https://i.postimg.cc/BvQjxykC/IMG-20260807-104530-484.jpg" />
   </programme>
